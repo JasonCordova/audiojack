@@ -1,0 +1,6 @@
+yt-dlp -F URL: to get formats
+yt-dlp -f FORMAT URL: to get in specific format
+
+you can even combine formats like this:
+
+yt-dlp -f FORMAT+FORMAT URL:
